@@ -3,7 +3,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  // assetPrefix: 'production' ? 'https://cdn.mydomain.com' : undefined,
+  assetPrefix: 'production' ? 'https://chat-widget-six.vercel.app/' : undefined,
 }
 
 module.exports = nextConfig
